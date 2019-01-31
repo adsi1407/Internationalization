@@ -1,2 +1,5 @@
 Internationalization.Core/obj
 .vs
+Internationalization.Core/bin
+Internationalization.Droid/obj
+Internationalization.Droid/bin
