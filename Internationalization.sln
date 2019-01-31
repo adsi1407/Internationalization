@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internationalization.Core", "Internationalization.Core\Internationalization.Core.csproj", "{FFD58D7F-27BF-45CE-B952-31B0791C2182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD58D7F-27BF-45CE-B952-31B0791C2182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD58D7F-27BF-45CE-B952-31B0791C2182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD58D7F-27BF-45CE-B952-31B0791C2182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD58D7F-27BF-45CE-B952-31B0791C2182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
